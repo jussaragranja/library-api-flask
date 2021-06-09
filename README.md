@@ -3,15 +3,6 @@
 
 A brief descriptionFirst project of a REST API using Flask
 
-
-## Author
-
-👤 **Jussara Granja**
-
-* Website: https://www.linkedin.com/in/jussaragranja/
-* Twitter: [@JuuhGranja](https://twitter.com/JuuhGranja)
-* Github: [@jussaragranja](https://github.com/jussaragranja)
-* LinkedIn: [@jussaragranja](https://linkedin.com/in/jussaragranja)
 ## Requirements
 
 ```bash 
@@ -29,3 +20,12 @@ A brief descriptionFirst project of a REST API using Flask
 ```bash 
   python main.py
 ```
+
+## Author
+
+👤 **Jussara Granja**
+
+* Website: https://www.linkedin.com/in/jussaragranja/
+* Twitter: [@JuuhGranja](https://twitter.com/JuuhGranja)
+* Github: [@jussaragranja](https://github.com/jussaragranja)
+* LinkedIn: [@jussaragranja](https://linkedin.com/in/jussaragranja)
