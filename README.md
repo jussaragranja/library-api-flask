@@ -21,6 +21,10 @@ First project of a REST API using Flask
   python main.py
 ```
 
+## Docs Screenshot
+
+![App Screenshot](https://i.ibb.co/r4Sx9CQ/Books-API.png)
+
 ## Author
 
 👤 **Jussara Granja**
