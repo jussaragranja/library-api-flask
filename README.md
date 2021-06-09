@@ -1,7 +1,7 @@
 
 # library-api-flask
 
-A brief descriptionFirst project of a REST API using Flask
+First project of a REST API using Flask
 
 ## Requirements
 
