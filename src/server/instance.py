@@ -7,8 +7,8 @@ class Server():
         self.api = Api(
             self.app,
             version='1.0.0',
-            title='Sample Book API',
-            description='A simple book API',
+            title='Sample Books API',
+            description='A simple books API',
             doc='/docs'
             )
 
