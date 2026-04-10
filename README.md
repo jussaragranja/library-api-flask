@@ -30,6 +30,5 @@ First project of a REST API using Flask
 👤 **Jussara Granja**
 
 * Website: https://www.linkedin.com/in/jussaragranja/
-* Twitter: [@JuuhGranja](https://twitter.com/JuuhGranja)
 * Github: [@jussaragranja](https://github.com/jussaragranja)
 * LinkedIn: [@jussaragranja](https://linkedin.com/in/jussaragranja)
